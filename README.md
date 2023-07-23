@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web dev**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-zeta-orcin-96.vercel.app/index.html](https://my-portfolio-zeta-orcin-96.vercel.app/index.html)
+- 👨‍💻 My portfolio website [https://my-portfolio-zeta-orcin-96.vercel.app/index.html](https://my-portfolio-zeta-orcin-96.vercel.app/index.html)
 
 - 💬 Ask me about **Flutter,Django,Expressjs**
 
