@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio website [https://my-portfolio-zeta-orcin-96.vercel.app/index.html](https://my-portfolio-zeta-orcin-96.vercel.app/index.html)
 
-- 💬 Ask me about **Flutter,Django,Expressjs**
+- 💬 Ask me about **Flutter,Django,NodeJs**
 
 - 📫 How to reach me **s_fekhar@estin.dz**
 
